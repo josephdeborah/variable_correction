@@ -8,4 +8,4 @@ console.log(color)
 
 
 // Ensure this get printed into the console
-console.log(rgb)
+console.log( rgb )
